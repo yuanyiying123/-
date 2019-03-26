@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>百度页面</title>
+<style type="text/css" media="screen">
+	.searchBox{
+		background-image: url('3png');
+		background-repeat: no-repeat;
+		padding-left: 20px;
+	}
+</style>
+
+</head>
+<body>
+	<p align="right">
+		<a href="https://www.baidu.com/">
+			<font color="#000000" face="宋体" size="3">
+				<b>新闻</b>
+			</font>
+		</a>
+		<a href="https://www.baidu.com/">
+			<font color="#000000" face="宋体" size="3">
+				<b>hao123</b>
+			</font>
+		</a>
+		<a href="https://www.baidu.com/">
+			<font color="#000000" face="宋体" size="3">
+				<b>地图</b>
+			</font>
+			</a>
+		</a>
+		<a href="https://www.baidu.com/">
+			<font color="#000000" face="宋体" size="3">
+				<b>视频</b>
+			</font>
+		</a>
+		<a href="https://www.baidu.com/">
+			<font color="#000000" face="宋体" size="3">
+				<b>贴吧</b>
+			</font>
+		</a>
+		<a href="https://www.baidu.com/">
+			<font color="#000000" face="宋体" size="3">
+				<b>学术</b>
+			</font>
+		</a>
+		<a href="https://www.baidu.com/">
+			<font color="#000000" face="宋体" size="3">
+				<b>登录</b>
+			</font>
+		</a>
+		<a href="https://www.baidu.com/">
+			<font color="#000000" face="宋体" size="3">
+				<b>设置</b>
+			</font>
+		</a>
+		<a href="https://www.baidu.com/" style="background: #1E90FF; color:white; text-decoration:none">
+			<font face="宋体" size="3">更多产品</font>
+			
+		</a>
+	</p><br><br>
+	<center>
+	<p>
+		<img src="https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=0fc9b8c7261f95cab2f89ae4a87e145b/1c950a7b02087bf49212ea50f1d3572c10dfcf89.jpg" alt="百度" name="baidu" width="270px" title="点击一下，了解更多"/>
+	</p>
+	<p>
+		<input type="text" style="width: 650px; height: 38px; vertical-align: middle; border-color: #1E90FF;"/>
+		<input type="button" value="百度一下" style="background: #1E90FF; face:宋体；font-size:15 color:#FFFFFF; border:none; width: 100px; height: 40px; margin-left: -5px; vertical-align: middle;">
+	</p><br><br>
+	<p>
+	    <a href="https://www.baidu.com/">
+	    	<font size="2" face="宋体" color="#808080">把百度设为主页</font>
+	    </a>
+	    <a href="https://www.baidu.com/">
+	    	<font size="2" face="宋体" color="#808080">关于百度</font>
+	    </a>
+	    <a href="https://www.baidu.com/">
+	    	<font size="2" face="宋体" color="#808080">About Baidu</font>
+	    </a>
+	    <a href="https://www.baidu.com/">
+	    	<font size="2" face="宋体" color="#808080">百度推广</font>
+	    </a>
+	</p>
+	<p>
+		<font size="2" face="宋体" color="#808080">@copy2017Baidu</font>
+		 <a href="https://www.baidu.com/">
+		 	<font size="2" face="宋体" color="#808080">使用百度前必读</font>
+		 </a>
+		 <a href="https://www.baidu.com/">
+		 	<font size="2" face="宋体" color="#808080">意见反馈</font>
+		 </a>
+		 <font size="2" face="宋体" color="#808080">京ICP证030173号</font>
+		  <a href="https://www.baidu.com/">
+		 	<font size="2" face="宋体" color="#808080">京公网安备1100000200001号</font>
+		 </a>
+		 <img src="http://photo.16pic.com/00/26/39/16pic_2639672_b.jpg" width="16px" height="20px">
+
+	</p>
+	</center>
+</body>
+</html>
